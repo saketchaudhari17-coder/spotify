@@ -1,0 +1,3 @@
+#liveStudio{position:relative;margin:0 0 10px}
+.studioFallback{padding:40px;border:1px solid #77624e;border-radius:12px;color:#c9b7a4;text-align:center}
+.library:has(#liveStudio) .studioIntro{padding-bottom:15px}.library:has(#liveStudio) #studioWalk{margin-top:20px}
